@@ -1,0 +1,179 @@
+body{
+    margin-left: -150px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    color: black;
+}
+.row-one{
+    margin-top: -20px;
+    margin-left: 800px;
+}
+.btn-blue{
+    width: 120px;
+    height: 40px;
+    background-color: #408CFF1A;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.blue{
+    width: 120%;
+    height: 600px;
+    background: #4058FF;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.chup{
+    width: 350px;
+    height: 1px;
+    background-color: white;
+}
+.salom{
+    margin-top: -500px;
+    margin-left: 100px;
+}
+.salom-two{
+    margin-top: -600px;
+    margin-left: 500px;
+}
+.div-one{
+    margin-left: 830px;
+    margin-top: -400px;
+}
+.div-two{
+    margin-left: 260px;
+    margin-top: 50px;
+}
+.div-three{
+    margin-left: 40px;
+}
+.qora{
+    width: 120%;
+    height: 600px;
+    background: rgba(14,16,62,0.97);
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+}
+.kalom{
+    margin-top: -450px;
+    margin-left: 100px;
+}
+.div-four{
+    margin-left: 20px;
+}
+.three{
+margin-left: 100px;
+    margin-top: 70px;
+}
+.two{
+    margin-left: 270px;
+}
+.btn-primary{
+    margin-top: 20px;
+    margin-left: 360px;
+}
+.nery{
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+
+}
+.page{
+    width: 210px;
+
+    margin-right: 100px;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+
+.h-one{
+    font-size: 25px;
+}
+.nero{
+    font-size: 19px;
+}
+.one{
+    margin-left: 250px;
+}
+.lalom{
+    margin-top: -380px;
+    margin-left: 100px;
+}
+.kok{
+    width: 120%;
+    height: 250px;
+    background:#4058FF;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.div-six{
+    margin-left: 470px;
+    margin-top: 100px;
+}
+.mnb{
+    margin-left: 380px;
+    margin-top: -350px;
+}
+button {
+    margin-top: 20px;
+    margin-left: 70px;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.cer{
+    margin-left: 65px;
+}
+.hayr{
+    margin-left: 65px;
+}
+.hayr1{
+    margin-left: 65px;
+}
+.hayr2{
+    margin-left: 20px;
+}
+.hayr3{
+    font-size: 12px;
+    color: gray;
+}
+.col-md-3{
+    margin-top: 65px;
+}
+.q1{
+    margin-left: 40px;
+}
+.h3{
+   padding-top:75px;
+}
+.hayr4{
+    margin-left: -360px;
+    margin-top: -30px;
+}
+.hayr5{
+    margin-top: -20px;
+    margin-left: -42px;
+}
+.text-white-50{
+    margin-top: 20px;
+}
+.text-secondary{
+    margin-top: -15px;
+}
+.hayr6{
+    margin-top: 15px;
+}
